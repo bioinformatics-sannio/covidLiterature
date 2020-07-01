@@ -1,3 +1,3 @@
 # Analysis of Covid-19 Literature
 
-[topic analisys of covid-19 related literature]{topics.ipynb}
+See the ipython notebook for details about the analysis: [covid-19 topic analysis](topics.ipynb)
